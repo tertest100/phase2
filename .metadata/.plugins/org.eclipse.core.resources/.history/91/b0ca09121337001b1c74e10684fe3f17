@@ -1,0 +1,22 @@
+package test;
+
+import static org.junit.jupiter.api.Assumptions.assumeTrue;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
+public class AssumptionsEx {
+	
+	
+	@Test
+	public void AssumptionsTest() {
+
+		System.out.println("Inside Assumption Test");		
+System.setProperty("ENV", "DEV");
+assumeTrue("DEV".equals(System.getProperty("ENV")));
+
+		Assertions.assertEquals(6, Calculator.add(4, 3));
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RepeatedTestClass" project="Junit5Project" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="test.RepeatedTestClass" time="0.001" displayname="RepeatedTestClass" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]">
+    <testsuite name="testCalcThree(test.RepeatedTestClass)" time="0.001" displayname="Calculator Test" parameters="org.junit.jupiter.api.RepetitionInfo" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcThree(org.junit.jupiter.api.RepetitionInfo)]">
+      <testcase name="testCalcThree" classname="test.RepeatedTestClass" time="0.001" dynamicTest="true" displayname="repetition 1 of 3" parameters="org.junit.jupiter.api.RepetitionInfo" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcThree(org.junit.jupiter.api.RepetitionInfo)]/[test-template-invocation:#1]"/>
+      <testcase name="testCalcThree" classname="test.RepeatedTestClass" time="0.0" dynamicTest="true" displayname="repetition 2 of 3" parameters="org.junit.jupiter.api.RepetitionInfo" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcThree(org.junit.jupiter.api.RepetitionInfo)]/[test-template-invocation:#2]"/>
+      <testcase name="testCalcThree" classname="test.RepeatedTestClass" time="0.0" dynamicTest="true" displayname="repetition 3 of 3" parameters="org.junit.jupiter.api.RepetitionInfo" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcThree(org.junit.jupiter.api.RepetitionInfo)]/[test-template-invocation:#3]"/>
+    </testsuite>
+    <testsuite name="testCalcTwo(test.RepeatedTestClass)" time="0.0" displayname="Calculator Test" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcTwo()]">
+      <testcase name="testCalcTwo" classname="test.RepeatedTestClass" time="0.0" dynamicTest="true" displayname="repetition 1 of 3" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcTwo()]/[test-template-invocation:#1]"/>
+      <testcase name="testCalcTwo" classname="test.RepeatedTestClass" time="0.0" dynamicTest="true" displayname="repetition 2 of 3" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcTwo()]/[test-template-invocation:#2]"/>
+      <testcase name="testCalcTwo" classname="test.RepeatedTestClass" time="0.0" dynamicTest="true" displayname="repetition 3 of 3" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:testCalcTwo()]/[test-template-invocation:#3]"/>
+    </testsuite>
+    <testsuite name="multiply(test.RepeatedTestClass)" time="0.0" displayname="Multiplication" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:multiply()]">
+      <testcase name="multiply" classname="test.RepeatedTestClass" time="0.0" dynamicTest="true" displayname="Multiplication 1/3" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:multiply()]/[test-template-invocation:#1]"/>
+      <testcase name="multiply" classname="test.RepeatedTestClass" time="0.004" dynamicTest="true" displayname="Multiplication 2/3" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:multiply()]/[test-template-invocation:#2]"/>
+      <testcase name="multiply" classname="test.RepeatedTestClass" time="0.003" dynamicTest="true" displayname="Multiplication 3/3" uniqueid="[engine:junit-jupiter]/[class:test.RepeatedTestClass]/[test-template:multiply()]/[test-template-invocation:#3]"/>
+    </testsuite>
+  </testsuite>
+</testrun>

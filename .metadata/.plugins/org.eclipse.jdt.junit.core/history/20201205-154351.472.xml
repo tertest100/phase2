@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DisabledTest" project="Junit5Project" tests="2" started="2" failures="0" errors="0" ignored="1">
+  <testsuite name="test.DisabledTest" time="0.0" displayname="DisabledTest" uniqueid="[engine:junit-jupiter]/[class:test.DisabledTest]">
+    <testcase name="testCalcOne" classname="test.DisabledTest" time="0.0" ignored="true" displayname="testCalcOne()" uniqueid="[engine:junit-jupiter]/[class:test.DisabledTest]/[method:testCalcOne()]"/>
+    <testcase name="testCalcTwo" classname="test.DisabledTest" time="0.0" displayname="testCalcTwo()" uniqueid="[engine:junit-jupiter]/[class:test.DisabledTest]/[method:testCalcTwo()]"/>
+  </testsuite>
+</testrun>

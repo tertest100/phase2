@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DynamicTestExample" project="Junit5Project" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="test.DynamicTestExample" time="0.0" displayname="DynamicTestExample" uniqueid="[engine:junit-jupiter]/[class:test.DynamicTestExample]">
+    <testsuite name="dynamicTestsWithCollection(test.DynamicTestExample)" time="0.0" displayname="dynamicTestsWithCollection()" uniqueid="[engine:junit-jupiter]/[class:test.DynamicTestExample]/[test-factory:dynamicTestsWithCollection()]">
+      <testcase name="dynamicTestsWithCollection" classname="test.DynamicTestExample" time="0.0" dynamicTest="true" displayname="Add test" uniqueid="[engine:junit-jupiter]/[class:test.DynamicTestExample]/[test-factory:dynamicTestsWithCollection()]/[dynamic-test:#1]"/>
+      <testcase name="dynamicTestsWithCollection" classname="test.DynamicTestExample" time="0.0" dynamicTest="true" displayname="Multiply Test" uniqueid="[engine:junit-jupiter]/[class:test.DynamicTestExample]/[test-factory:dynamicTestsWithCollection()]/[dynamic-test:#2]"/>
+    </testsuite>
+  </testsuite>
+</testrun>

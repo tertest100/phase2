@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestInterface" project="Junit5Project" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="test.TestInterface" time="0.0" displayname="TestInterface" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]">
+    <testsuite name="dynamicTestsForPalindromes(test.TestInterface)" time="0.0" displayname="dynamicTestsForPalindromes()" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[test-factory:dynamicTestsForPalindromes()]">
+      <testcase name="dynamicTestsForPalindromes" classname="test.TestInterface" time="0.0" dynamicTest="true" displayname="racecar" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[test-factory:dynamicTestsForPalindromes()]/[dynamic-test:#1]"/>
+      <testcase name="dynamicTestsForPalindromes" classname="test.TestInterface" time="0.0" dynamicTest="true" displayname="radar" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[test-factory:dynamicTestsForPalindromes()]/[dynamic-test:#2]"/>
+      <testcase name="dynamicTestsForPalindromes" classname="test.TestInterface" time="0.0" dynamicTest="true" displayname="mom" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[test-factory:dynamicTestsForPalindromes()]/[dynamic-test:#3]"/>
+      <testcase name="dynamicTestsForPalindromes" classname="test.TestInterface" time="0.0" dynamicTest="true" displayname="dad" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[test-factory:dynamicTestsForPalindromes()]/[dynamic-test:#4]"/>
+    </testsuite>
+    <testcase name="test2" classname="test.TestInterface" time="0.0" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[method:test2()]"/>
+    <testcase name="testCalcTwo" classname="test.TestInterface" time="0.0" displayname="testCalcTwo()" uniqueid="[engine:junit-jupiter]/[class:test.TestInterface]/[method:testCalcTwo()]"/>
+  </testsuite>
+</testrun>
