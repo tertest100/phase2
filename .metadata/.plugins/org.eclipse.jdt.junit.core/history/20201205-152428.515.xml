@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="AssertionsExample" project="Junit5Project" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="test.AssertionsExample" time="0.001" displayname="AssertionsExample" uniqueid="[engine:junit-jupiter]/[class:test.AssertionsExample]">
-    <testcase name="test1" classname="test.AssertionsExample" time="0.001" displayname="Annotations Test" uniqueid="[engine:junit-jupiter]/[class:test.AssertionsExample]/[method:test1()]"/>
-  </testsuite>
-</testrun>

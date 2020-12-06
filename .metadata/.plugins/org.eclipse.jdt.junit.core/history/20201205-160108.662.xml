@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="AssumptionsEx" project="Junit5Project" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="test.AssumptionsEx" time="0.007" displayname="AssumptionsEx" uniqueid="[engine:junit-jupiter]/[class:test.AssumptionsEx]">
-    <testcase name="test_add_two_positive_numbers" classname="test.AssumptionsEx" time="0.0" displayname="adding two positive numbers" uniqueid="[engine:junit-jupiter]/[class:test.AssumptionsEx]/[method:test_add_two_positive_numbers()]"/>
-    <testcase name="AssumtionsTest" classname="test.AssumptionsEx" time="0.007" displayname="AssumtionsTest()" uniqueid="[engine:junit-jupiter]/[class:test.AssumptionsEx]/[method:AssumtionsTest()]"/>
-  </testsuite>
-</testrun>

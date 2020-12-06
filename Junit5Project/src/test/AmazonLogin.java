@@ -5,9 +5,11 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
 import io.github.bonigarcia.seljup.SeleniumJupiter;
 
-@ExtendWith(SeleniumJupiter.class)
+@ExtendWith(DriverProvider.class)
 public class AmazonLogin {
 	
 	@Test
