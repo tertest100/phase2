@@ -1686,3 +1686,18 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-12-06 18:02:42,845 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/testmaven1/src/main/resources
 2020-12-06 18:02:42,846 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-06 18:02:42,846 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/testmaven1/src/test/resources
+2020-12-12 13:57:04,449 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-12 14:03:34,106 [Worker-5: Launching JunitRunner] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 14:03:34,107 [Worker-5: Launching JunitRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/Junit5Project/src/main/resources
+2020-12-12 14:03:34,110 [Worker-5: Launching JunitRunner] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 14:03:34,110 [Worker-5: Launching JunitRunner] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/Junit5Project/src/test/resources
+2020-12-12 14:03:35,930 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:03:35,930 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/testmaven1/src/main/resources
+2020-12-12 14:03:35,931 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:03:35,944 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/testmaven1/src/test/resources
+2020-12-12 14:13:56,526 [Worker-5: Launching Executing test in _home_terli001gmail_Junitworkspace_testmaven1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/terli001gmail/Junitworkspace/testmaven1
+2020-12-12 14:13:56,527 [Worker-5: Launching Executing test in _home_terli001gmail_Junitworkspace_testmaven1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-12-12 14:14:01,677 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:14:01,678 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/testmaven1/src/main/resources
+2020-12-12 14:14:01,679 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:14:01,680 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/terli001gmail/Junitworkspace/testmaven1/src/test/resources

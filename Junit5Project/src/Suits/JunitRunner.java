@@ -9,7 +9,7 @@ import org.junit.platform.suite.api.SelectPackages;
 
 import org.junit.runner.RunWith;
 
-@RunWith(JUnitPlatform.class)
+@RunWith (JUnitPlatform.class)
 @SelectPackages({"PackageA","PackageB"})
 @IncludeTags({"qa","production"})
 @ExcludeTags("qa")
